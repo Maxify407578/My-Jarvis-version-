@@ -3,10 +3,9 @@
 
 Start any interaction by saying **"Jarvis"** 🛠 **Built-in Tools**
 
-<details>
-<summary><b>Click to expand/collapse Built-in Tools</b></summary>
 
-Jarvis comes with powerful built-in tools that enhance its capabilities:waiting for the "Yes sir?" response. Then use any of these commands:iv align="center">
+
+Jarvis comes with powerful built-in tools that enhance its capabilities:waiting for the "Yes sir?" response.
 
 ![Jarvis Logo](https://img.shields.io/badge/Jarvis-AI%20Assistant-blue?style=for-the-badge&logo=robot)
 ![Version](https://img.shields.io/badge/Version-1.1.0-green?style=for-the-badge)
@@ -486,5 +485,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Made with ❤️ for the open-source community*
+
 
 
