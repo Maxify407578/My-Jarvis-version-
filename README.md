@@ -1,7 +1,7 @@
 # 🧠 Jarvis – Local Voice-Controlled AI Assistant
 ## 🎯 **Complete Command List**
 
-Start any interaction by saying **"Jarvis"** a## 🛠 **Built-in Tools**
+Start any interaction by saying **"Jarvis"** 🛠 **Built-in Tools**
 
 <details>
 <summary><b>Click to expand/collapse Built-in Tools</b></summary>
@@ -486,4 +486,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Made with ❤️ for the open-source community*
+
 
